@@ -2,3 +2,4 @@
 2. ROM stendur fyrir Read-Only-Memory.
 3. Fyrirbyggjandi viðhald er framkvæmt á meðan búnaðurinn er enn að vinna, þannig að það er ekki brjóta niður óvænt.
 4. ESD eða Electrostatic discharge er skyndilegt flæði raforku á milli raflaðna hluta af völdum snertingu, þetta getur rústað örgjörvum og móðurborðum og mörgum öðrum tölvuíhlutum. Hægt er að koma í veg fyrir þetta með því að snerta stál eða nota Antistatic armband sem tengir þig í jörð.
+5. Þegar þú ert að velja þér spennugjafa þá þarftu að hafa í huga að athuga hvort örgjörvinn, skjákortið, móðurborðið þitt getur höndlað þann spennugjafa sem þú velur.
